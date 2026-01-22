@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Power BI temp files
+*.pbix~
+
+# OS files
+.DS_Store
+Thumbs.db
