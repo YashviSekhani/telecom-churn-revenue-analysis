@@ -1,4 +1,4 @@
-# 📊 Telecom Customer Churn & Revenue Leakage Analysis
+# Telecom Customer Churn & Revenue Leakage Analysis
 
 
 ## Overview
@@ -76,20 +76,6 @@ The Power BI report consists of four analytical views:
 - **Python (pandas)** – Data ingestion and preparation
 - **SQL Server** – Data modeling, transformations, and analysis
 - **Power BI** – Interactive dashboards and insights
-
-
-## Repository Structure
-
-telecom-churn-revenue-analysis/
-├── sql/
-│   ├── raw/
-│   ├── staging/
-│   ├── analytics/
-│   └── analysis/
-├── etl/
-├── docs/
-├── powerbi/
-└── screenshots/
 
 
 
